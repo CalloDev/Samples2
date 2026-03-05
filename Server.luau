@@ -17,3 +17,5 @@ for _, Service in ServicesCache do
 
     Service:Init()
 end
+
+-- Same for client just using PlayerScripts.Controllers
